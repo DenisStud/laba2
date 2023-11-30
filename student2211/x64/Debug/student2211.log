@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\Users\jamed\source\repos\student\student2211\MyForm.h(198,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student2211\MyForm.h(201,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student2211\MyForm.h(204,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student2211\MyForm.h(211,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student2211\MyForm.h(211,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student2211\MyForm.h(499,61): warning C4101: e: неиспользованная локальная переменная
+C:\Users\jamed\source\repos\student\student2211\MyForm.h(525,61): warning C4101: e: неиспользованная локальная переменная
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  student2211.vcxproj -> C:\Users\jamed\source\repos\student\student2211\x64\Debug\student2211.exe
